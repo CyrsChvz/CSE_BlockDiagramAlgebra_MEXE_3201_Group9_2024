@@ -46,7 +46,9 @@
 ![2](https://github.com/CyrsChvz/CSE_BlockDiagramAlgebra_MEXE_3201_Group9_2024/assets/157497997/e3a88660-59d4-446e-9c75-e4f52cdfc27b)
 ![2 2](https://github.com/CyrsChvz/CSE_BlockDiagramAlgebra_MEXE_3201_Group9_2024/assets/157497997/7daaea30-e637-4c17-87e2-4448e10ae715)
 ![2 3](https://github.com/CyrsChvz/CSE_BlockDiagramAlgebra_MEXE_3201_Group9_2024/assets/157497997/cdc9c302-f9c6-420b-be47-9563a661763d)
-
+![2 4](https://github.com/CyrsChvz/CSE_BlockDiagramAlgebra_MEXE_3201_Group9_2024/assets/157552825/df30f9f1-dffe-40ef-84fe-accfb5704722)
+![2 5](https://github.com/CyrsChvz/CSE_BlockDiagramAlgebra_MEXE_3201_Group9_2024/assets/157552825/323363af-e256-4166-8df1-dd09bcb82d21)
+![2 6](https://github.com/CyrsChvz/CSE_BlockDiagramAlgebra_MEXE_3201_Group9_2024/assets/157552825/548211c5-6fee-405a-9888-bab689d5601b)
 
 <h3 align="center">G9 ENGINEERS</h3>
 
