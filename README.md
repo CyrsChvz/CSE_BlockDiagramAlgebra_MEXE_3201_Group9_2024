@@ -7,15 +7,53 @@
 <h1 align="center"> Block Diagram Algebra </h1> 
 <br>
 
-
-
-
 <h3 align="center">G9 ENGINEERS</h3>
 
 <h4 align="center">Ada, Lemuel J. - PQ <i>(Project Quality Engineer)</i></h4>
 <h4 align="center">Chavez, Cyrus P. - PP <i>(Project Programmer)</i></h4>
 <h4 align="center">Eje, Ken Christian D. - PS <i>(Project Supervisor)</i></h4>
 <h4 align="center">Umali, Felicity D. - PL <i>(Project Leader)</i></h4>
+
+### Block Diagram 1:
+
+![lab3_1](https://github.com/CyrsChvz/CSE_BlockDiagramAlgebra_MEXE_3201_Group9_2024/assets/157597327/8b40fd9f-042d-4ce4-835d-d73f605a3173)
+
+### Simulink:
+
+![simulink](https://github.com/CyrsChvz/CSE_BlockDiagramAlgebra_MEXE_3201_Group9_2024/assets/157597327/433dff43-4cb0-43db-bf3e-3a2d62e21744)
+
+### Step Response:
+
+![lab_1_3](https://github.com/CyrsChvz/CSE_BlockDiagramAlgebra_MEXE_3201_Group9_2024/assets/157597327/781afbf8-258b-456c-9da9-1659cc4713c4)
+
+### Sinusoidal:
+
+![sinusoidal](https://github.com/CyrsChvz/CSE_BlockDiagramAlgebra_MEXE_3201_Group9_2024/assets/157597327/f1aecb23-7697-445d-a82c-add766e5577d)
+
+
+###
+
+### Block Diagram 1: Solution
+
+
+### Block Diagram 2
+
+
+
+### Step Response
+
+
+
+### Simulink
+
+
+
+### Sinusoidal
+
+
+
+### Block Diagram 2: Solution
+
 
 <hr>
 <p align="center">
