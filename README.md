@@ -14,7 +14,7 @@
 <h4 align="center">Eje, Ken Christian D. - PS <i>(Project Supervisor)</i></h4>
 <h4 align="center">Umali, Felicity D. - PL <i>(Project Leader)</i></h4>
 
-### Block Diagram 1:
+## Block Diagram 1:
 
 ![lab3_1](https://github.com/CyrsChvz/CSE_BlockDiagramAlgebra_MEXE_3201_Group9_2024/assets/157597327/8b40fd9f-042d-4ce4-835d-d73f605a3173)
 
@@ -36,21 +36,21 @@
 ### Block Diagram 1: Solution
 
 
-### Block Diagram 2
+## Block Diagram 2
 
-
+![jhdkahd](https://github.com/CyrsChvz/CSE_BlockDiagramAlgebra_MEXE_3201_Group9_2024/assets/157597327/93f8026d-d812-45ac-899e-9368e4c81522)
 
 ### Step Response
 
-
+![lab3_2](https://github.com/CyrsChvz/CSE_BlockDiagramAlgebra_MEXE_3201_Group9_2024/assets/157597327/6406c95c-3514-4553-bb17-f9da788c0a57)
 
 ### Simulink
 
-
+![simulink22](https://github.com/CyrsChvz/CSE_BlockDiagramAlgebra_MEXE_3201_Group9_2024/assets/157597327/656aec82-1f2e-4b7e-b654-1fb986cb93b6)
 
 ### Sinusoidal
 
-
+![sinusoidal2](https://github.com/CyrsChvz/CSE_BlockDiagramAlgebra_MEXE_3201_Group9_2024/assets/157597327/c9cc2246-1269-45bc-b87a-00b00628a2cd)
 
 ### Block Diagram 2: Solution
 
